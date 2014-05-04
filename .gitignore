@@ -1,3 +1,4 @@
 /Debug
 /ipch
 *.log
+/GoldCodeGenerator.sdf
